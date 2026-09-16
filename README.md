@@ -20,8 +20,8 @@ A hands-on 2-day workshop on machine learning and AI fundamentals for manufactur
 - Turn GenAI into powerful coworkers with agents (hands-on)
 
 ## Prerequisites
-- Google colab
-- **Alternatively** Local Python 3.8+ (+Jupyter)
+- Google Colab (*Alternatives*: Local Python 3.8+ (+Jupyter))
+- M365 Copilot (*Alternatives*: Claude Cowork, Google Antigravity, ChatGPT work )
 
 
 
