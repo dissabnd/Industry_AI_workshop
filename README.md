@@ -19,6 +19,16 @@ A hands-on 2-day workshop on machine learning and AI fundamentals for manufactur
 - Potential applications
 - Turn GenAI into powerful coworkers with agents (hands-on)
 
+
+## Prompt
+~~~ 
+Read each markdown cell in this notebook and generate the complete, working Python code for the corresponding code cell beneath each prompt (Prompt 0 through Prompt 9c). 
+
+Ensure all variables pass seamlessly across cells so that clicking "Run All" executes the full notebook end-to-end without errors 
+
+~~~
+
+
 ## Prerequisites
 - Google Colab (*Alternatives*: Local Python 3.8+ (+Jupyter))
 - M365 Copilot (*Alternatives*: Claude Cowork, Google Antigravity, ChatGPT work )
