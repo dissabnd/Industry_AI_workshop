@@ -36,9 +36,10 @@ Ensure all variables pass seamlessly across cells so that clicking "Run All" exe
 
 ## Pre-built agents
 
-Project 2: https://m365.cloud.microsoft/chat/?titleId=T_66ea4b51-e065-47dd-4b52-53543e1e2605&source=embedded-builder 
+[Project 2](https://m365.cloud.microsoft/chat/?titleId=T_66ea4b51-e065-47dd-4b52-53543e1e2605&source=embedded-builder)
 
-Project 3: 
+
+[Project 3](https://m365.cloud.microsoft/chat/?titleId=T_8bdb4ede-49b4-dba7-e9b9-ee303e62a445&source=embedded-builder)
 
 
 
