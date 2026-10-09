@@ -2,7 +2,7 @@
 
 Attach `Plant_Manufacturing_SOP_Quality_Guidelines.pdf` and `Quality_Deviation_Incidents_Log.csv`, then send:
 
-```text
+
 You are a QA compliance reviewer at a dairy packaging plant. Use only the two attached files: the plant SOP (PDF) and the deviation log (CSV).
 
 Audit the 60 deviations against the SOP:
@@ -11,17 +11,16 @@ Audit the 60 deviations against the SOP:
 3. Draft a short NCR for DEV-2026-015, including how many packs must be quarantined (show the arithmetic).
 
 Cite the SOP clause and Incident ID for every finding. If something is not in the files, say so — do not use outside regulations.
-```
+
 
 ## Follow-ups
 
-```text
-For DEV-2026-015: what buffer does SOP-PKG-204 add to the quarantine window, and what testing is needed before release? Quote the clauses.
-```
 
-```text
+For DEV-2026-015: what buffer does SOP-PKG-204 add to the quarantine window, and what testing is needed before release? Quote the clauses.
+
+
 An auditor asks for evidence that Line 1 meets US FDA 21 CFR Part 117 for heat-seal validation. How do you respond?
-```
+
 
 ## Debrief
 Open a new chat and ask follow-up 2 without the opening prompt. What changed? That is why Project 2 is an agent.
