@@ -1,0 +1,31 @@
+Date,Shift,Line,Product,Stop_Type,Duration_Min,Fault_Area,Operator_Note
+2026-08-24,Night,Line 1,WMP 1kg Pouch,Unplanned,40,Sealing jaw,"Weak seals on pouches, jaw temp drifting"
+2026-08-24,Night,Line 2,SMP 25kg Bulk Bag,Unplanned,,Hopper / auger,"Line down, waiting for fitter (time not logged)"
+2026-08-24,Night,Line 3,NZ Gold 500g Canister,Unplanned,20,Checkweigher,"Weight alarms, cleaned weigh belt"
+2026-08-25,Afternoon,Line 2,SMP 25kg Bulk Bag,Unplanned,23,Hopper / auger,"Powder bridging in hopper, tapped and cleared"
+2026-08-25,Night,Line 1,WMP 1kg Pouch,Unplanned,38,Sealing jaw,"Seal jaw alarm again, reset and restarted"
+2026-08-26,Morning,Line 1,WMP 1kg Pouch,Planned,30,Changeover / CIP,Scheduled clean
+2026-08-26,Morning,Line 2,SMP 25kg Bulk Bag,Unplanned,11,Checkweigher,"Weight alarms, cleaned weigh belt"
+2026-08-26,Morning,Line 3,NZ Gold 500g Canister,Planned,30,Changeover / CIP,Scheduled clean
+2026-08-26,Morning,Line 3,NZ Gold 500g Canister,Unplanned,19,Date coder,"Date code illegible, cleaned print head"
+2026-08-26,Afternoon,Line 2,SMP 25kg Bulk Bag,Unplanned,37,Hopper / auger,"Powder bridging in hopper, tapped and cleared"
+2026-08-26,Afternoon,Line 3,NZ Gold 500g Canister,Unplanned,11,Checkweigher,"Checkweigher rejecting good packs, re-zeroed"
+2026-08-26,Night,Line 1,WMP 1kg Pouch,Unplanned,58,Sealing jaw,"Seal jaw alarm again, reset and restarted"
+2026-08-27,Morning,Line 2,SMP 25kg Bulk Bag,Unplanned,38,Hopper / auger,"Powder bridging in hopper, tapped and cleared"
+2026-08-27,Morning,Line 3,NZ Gold 500g Canister,Unplanned,17,Date coder,Coder ribbon ran out
+2026-08-27,Afternoon,Line 1,WMP 1kg Pouch,Unplanned,18,Sealing jaw,"Seal temp dropped below 165C, line stopped"
+2026-08-27,Afternoon,Line 3,NZ Gold 500g Canister,Unplanned,14,Checkweigher,"Weight alarms, cleaned weigh belt"
+2026-08-27,Night,Line 1,WMP 1kg Pouch,Unplanned,48,Sealing jaw,"Seal temp dropped below 165C, line stopped"
+2026-08-28,Morning,Line 1,WMP 1kg Pouch,Unplanned,11,Film splice,"Film reel change, splice failed"
+2026-08-28,Afternoon,Line 1,WMP 1kg Pouch,Unplanned,16,Sealing jaw,"Seal jaw alarm again, reset and restarted"
+2026-08-28,Night,Line 1,WMP 1kg Pouch,Unplanned,61,Sealing jaw,"Seal temp dropped below 165C, line stopped"
+2026-08-28,Night,Line 3,NZ Gold 500g Canister,Unplanned,15,Date coder,Coder ribbon ran out
+2026-08-29,Morning,Line 1,WMP 1kg Pouch,Unplanned,11,Film splice,Film tension alarm after reel change
+2026-08-29,Morning,Line 3,NZ Gold 500g Canister,Unplanned,23,Checkweigher,"Checkweigher rejecting good packs, re-zeroed"
+2026-08-29,Night,Line 2,SMP 25kg Bulk Bag,Unplanned,17,Checkweigher,"Weight alarms, cleaned weigh belt"
+2026-08-30,Morning,Line 1,WMP 1kg Pouch,Planned,30,Changeover / CIP,Scheduled clean
+2026-08-30,Morning,Line 1,WMP 1kg Pouch,Unplanned,11,Film splice,"Film reel change, splice failed"
+2026-08-30,Morning,Line 3,NZ Gold 500g Canister,Planned,30,Changeover / CIP,Scheduled clean
+2026-08-30,Afternoon,Line 2,SMP 25kg Bulk Bag,Unplanned,41,Hopper / auger,"Auger dosing low, cleared blockage"
+2026-08-30,Afternoon,Line 3,NZ Gold 500g Canister,Unplanned,12,Date coder,"Date code illegible, cleaned print head"
+2026-08-30,Night,Line 1,WMP 1kg Pouch,Unplanned,50,Sealing jaw,"Seal temp dropped below 165C, line stopped"
