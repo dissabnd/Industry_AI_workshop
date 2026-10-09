@@ -34,6 +34,14 @@ Ensure all variables pass seamlessly across cells so that clicking "Run All" exe
 - M365 Copilot (*Alternatives*: Claude Cowork, Google Antigravity, ChatGPT work )
 
 
+## Pre-built agents
+
+Project 2: https://m365.cloud.microsoft/chat/?titleId=T_66ea4b51-e065-47dd-4b52-53543e1e2605&source=embedded-builder 
+
+Project 3: 
+
+
+
 
 
 
